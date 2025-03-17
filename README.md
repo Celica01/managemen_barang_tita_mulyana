@@ -24,9 +24,11 @@ php artisan key:generate
 php artisan serve
 ```
 
-----------------------------------------------------------------
-
-
+## 5. User Login
+```
+Email : admin@example.com
+password : 123456
+```
 
 ```
 Nama Pembuat: Tita Mulyana
