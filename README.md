@@ -15,13 +15,13 @@ cd managemen_barang_tita_mulyana
 ```
 cp .env.example .env
 ```
-## 3. Generate Laravel Key
-```
-php artisan key:generate
-```
-## 4. Install Package
+## 3. Install Package
 ```
 composer install
+```
+## 4. Generate Laravel Key
+```
+php artisan key:generate
 ```
 ## 5. Running Server
 ```
