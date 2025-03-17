@@ -19,12 +19,16 @@ cp .env.example .env
 ```
 php artisan key:generate
 ```
-## 4. Running Server
+## 4. Install Package
+```
+composer install
+```
+## 5. Running Server
 ```
 php artisan serve
 ```
 
-## 5. User Login
+## 6. User Login
 ```
 Email : admin@example.com
 password : 123456
